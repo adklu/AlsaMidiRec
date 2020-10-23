@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=AlsaMidiRec
+Version=0.0.16
+GenericName=AlsaMidiRec
+Comment=AlsaMidiRec
+Exec=/home/[user name]/AlsaMidiRec/AlsaMidiRec %F
+Categories=audio;Qt;
+Keywords=midi;recorder;
+Terminal=false
+Type=Application
+Name[en_CA]=AlsaMidiRec
