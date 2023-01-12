@@ -1,6 +1,6 @@
-AlsaMidiRec is a GUI for arecordmidi.c (with midi input selection menu) for 'point-and-shoot' midi recording tasks on Linux systems with ALSA, but without the need of a DAW or Jack Audio Connection Kit. 
 
-AlsaMidiRec requires alsa-utils (including arecordmidi) installed on the system (for debug: libasound2 and libasound2-dev). The midi files of the selected midi input will be saved with date and time in the folder of AlsaMidiRec. 
+
+
 
 required:
 
